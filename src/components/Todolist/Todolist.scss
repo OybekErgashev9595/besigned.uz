@@ -1,0 +1,46 @@
+.todoSection{
+  .formTodo{
+    margin-top: 100px;
+    max-width: 825px;
+    padding: 10px 60px;
+    border-radius: 26px;
+    color: white;
+    background-image: linear-gradient(to right top, #92386b, #884079, #7b4885, #6b4f8e, #595694, #47609c, #3269a0, #1671a2, #007ea4, #008aa3, #11959e, #3a9f98);
+
+    form{
+
+    }
+  }
+  h2{
+    color: #FFFFFF;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 132.9%;
+  }
+  p{
+    max-width: 825px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-top: 50px;
+  }
+  label{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    color: #FFFFFF;
+  }
+  .sabmit{
+    margin-top: 55px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 52px;
+    color: #020202;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.63);
+    border-radius: 0px 0px 26px 26px;
+    border: none;
+  }
+}

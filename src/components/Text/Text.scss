@@ -1,0 +1,19 @@
+.textSection{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  h4{
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 37px;
+    background: linear-gradient(259.16deg, #3190FF 19.87%, #D14AF3 85.98%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    max-width: 856px;
+
+
+  }
+}

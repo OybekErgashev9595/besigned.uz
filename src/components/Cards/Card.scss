@@ -1,0 +1,27 @@
+.cardSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  h1{
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 50px;
+    color: #0085FF;
+  }
+  h2{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 35px;
+    color: #FFFFFF;
+
+  }
+
+  p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 175.5%;
+    color: #FFFFFF;
+  }
+
+}

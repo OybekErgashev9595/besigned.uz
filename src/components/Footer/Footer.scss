@@ -1,0 +1,60 @@
+footer{
+  margin-top: 360px;
+  padding-bottom: 130px;
+  .logofotter{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    height: 100%;
+    justify-content: space-between;
+    p{
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 27px;
+      color: #FFFFFF;
+      margin: 0;
+      max-width: 230px;
+    }
+
+  }
+
+  .company{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    h2{
+      font-weight: 700;
+      font-size: 35px;
+      color: #FFFFFF;
+    }
+    a{
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 27px;
+      color: #FFFFFF;
+      text-decoration: none;
+    }
+  }
+  .contact{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    h2{
+      font-weight: 700;
+      font-size: 35px;
+      color: #FFFFFF;
+    }
+    a{
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 27px;
+      color: #FFFFFF;
+      text-decoration: none;
+    }
+    span{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+  }
+}
